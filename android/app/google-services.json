@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426269736064",
+    "project_id": "flutter-singup-5c83b",
+    "storage_bucket": "flutter-singup-5c83b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426269736064:android:2eff1b4f3a084d5e927a65",
+        "android_client_info": {
+          "package_name": "com.example.assingment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426269736064-2tirpuu4mf5bqsraftuss1mnidajt2ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2ZpZYk4tdQX6mlNL6Ea5Wgj1rpAMhM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426269736064-2tirpuu4mf5bqsraftuss1mnidajt2ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

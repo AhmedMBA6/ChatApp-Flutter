@@ -1,5 +1,5 @@
-import 'package:assingment/Profile.dart';
-import 'package:assingment/homee.dart';
+import 'package:assingment/page/Profile.dart';
+import 'package:assingment/page/homee.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
